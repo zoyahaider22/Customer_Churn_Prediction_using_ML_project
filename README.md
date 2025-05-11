@@ -67,7 +67,7 @@ This project builds a predictive system using:
    ```bash
    git clone https://github.com/zoyahaider22/Customer_Churn_Prediction_using_ML_project.git
    cd Customer_Churn_Prediction_using_ML_project
-````
+
 
 2. **Install dependencies**
 
@@ -83,7 +83,7 @@ This project builds a predictive system using:
 
 4. **Input customer details** in the app interface and get real-time churn prediction with probability.
 
----
+
 
 ## 🧠 Future Scope
 
