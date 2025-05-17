@@ -1,6 +1,9 @@
 
 # 📊 Customer Churn Prediction using Machine Learning
 
+![YouTube Banner - Customer Churn Prediction](https://github.com/user-attachments/assets/c3a799bf-6c10-4f38-975a-266287746ed2)
+
+
 This project aims to predict customer churn in the telecom industry using machine learning models. Accurate churn prediction helps telecom companies proactively retain customers, reduce revenue loss, and enhance customer satisfaction.
 
 ## 🔍 Problem Statement
